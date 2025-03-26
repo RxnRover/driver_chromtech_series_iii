@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+
+<nifamily familyname="driver_chromtech_series_iii_errors" displayname="ChromTech Series III Driver Errors">
+</nifamily>
+</nicomment>
+<nierror code="-8999">
+Pressure compensation value provided is out of the manufacturer-recommended range for this pump head.
+</nierror>
+</nidocument>
